@@ -1,0 +1,6 @@
+[submodule "nomster-web"]
+	path = nomster-web
+	url = https://github.com/tscholze/nomster-web.git
+[submodule "nomster-database-rest-server"]
+	path = nomster-database-rest-server
+	url = https://github.com/Skare69/Nomster.git
