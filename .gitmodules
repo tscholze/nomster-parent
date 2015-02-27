@@ -1,0 +1,7 @@
+[submodule "nomster-server"]
+path = nomster-server
+url = https://github.com/Skare69/Nomster.git
+
+[submodule "nomster-web"]
+path = nomster-web
+url = https://github.com/tscholze/nomster-web.git
