@@ -7,3 +7,6 @@
 [submodule "nomster-ios"]
 	path = nomster-ios
 	url = https://github.com/tscholze/nomster-ios.git
+[submodule "nomster-api"]
+	path = nomster-api
+	url = https://github.com/klausmeyer/nomster-api.git

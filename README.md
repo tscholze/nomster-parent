@@ -15,6 +15,8 @@ Linked respositories
 -
 * [Nomster-Server](https://github.com/Skare69/Nomster): Represents the core of the Nomster ecosystem.
 * [Nomster-Web](https://github.com/tscholze/nomster-web): A Poylmer-based Webfrontend
+* [Nomster-iOS](https://github.com/tscholze/nomster-ios): An iOS client as playground for fun with Swift
+* [Nomster-API](https://github.com/klausmeyer/nomster-api): Rails based API server for the Nomster ecosystem.
 
 What's Nomster in general?
 =
