@@ -3,6 +3,7 @@
 Nomster-Parent
 =
 This repository contains all other Nomster-related standalone respositories as submodules.
+For further project related information, please visit the [project's homepage](http://tscholze.github.io/nomster-parent/).
 
 Usage
 -
