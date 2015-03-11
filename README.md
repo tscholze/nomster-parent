@@ -9,6 +9,7 @@ Usage
 1. `git clone https://github.com/tscholze/nomster-parent.git`
 * `git submodule init`
 * To update all at once: `git submodule update`
+* To get the latest versions: `git submodule foreach git pull origin master`
 
 Linked respositories
 -
